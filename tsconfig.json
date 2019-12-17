@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "charset": "utf8",
+      "module": "commonjs",
+      "target": "ES2018",
+      "lib": [
+        "ES2018",
+        "DOM"
+      ],
+      "noImplicitAny": true,
+      "removeComments": true,
+      "strictNullChecks": true,
+      "noImplicitThis": false,
+      "alwaysStrict": true,
+      "preserveConstEnums": true,
+      "sourceMap": false,
+      "esModuleInterop": true,
+      "outDir": ".dist",
+      "noImplicitReturns": true
+    }
+  }
